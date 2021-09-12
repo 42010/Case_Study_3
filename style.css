@@ -1,0 +1,23 @@
+body {
+    background-size: cover;
+}
+
+.heading {
+    text-align: center;
+    text-decoration: solid;
+}
+
+.TEST1IMAGE {
+    height: 50%;
+    width: 30%;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+}
